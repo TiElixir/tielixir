@@ -33,7 +33,7 @@ I enjoy building tools from scratch, experimenting with new tech, and constantly
 ---
 
 ### 📊 GitHub Stats  
-![TiElixir's GitHub stats](https://github-readme-stats.vercel.app/api?username=tielixir&show_icons=true&theme=tokyonight)
+![TiElixir's GitHub stats](https://github-readme-stats.vercel.app/api?username=tielixir&show_icons=true&theme=dark)
 
 ---
 
