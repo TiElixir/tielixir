@@ -24,7 +24,7 @@ I enjoy building tools from scratch, experimenting with new tech, and constantly
 - Advanced Python (data structures, algorithms, GUI apps)
 - Minecraft modding & Java fundamentals  
 - AI model training and optimization  
-- Linux customization and system administration  
+- React
 
 ---
 
