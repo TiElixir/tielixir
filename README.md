@@ -7,7 +7,8 @@ I enjoy building tools from scratch, experimenting with new tech, and constantly
 ---
 
 ### 🚀 What I’m Working On  
-- **MineAFKjs** – A JavaScript project for AFK Minecraft bots  
+- **MineAFKjs** – A JavaScript project for AFK Minecraft bots
+- **Lyrnios.ai** - A web-app for students, which makes visualization easier
 - **Exploration** – Minecraft modding (Java), AI experiments, and creative coding  
 
 ---
@@ -21,15 +22,15 @@ I enjoy building tools from scratch, experimenting with new tech, and constantly
 ---
 
 ### 🌱 Currently Learning  
-- Advanced Python (data structures, algorithms, GUI apps)
-- Minecraft modding & Java fundamentals  
+- Advanced Python (data structures, algorithms, GUI apps) 
 - AI model training and optimization  
 - React
 
 ---
 
 ### 🧰 Highlighted Projects  
-- [MineAFKjs](https://github.com/tielixir/MineAFKjs) – AFK Minecraft bot project  
+- [MineAFKjs](https://github.com/tielixir/MineAFKjs) – AFK Minecraft bot project
+- [Lyrnios.ai](https://github.com/0xIIEST/lyrnios.ai) - Educational WebAPP
 ---
 
 ### 📊 GitHub Stats  
