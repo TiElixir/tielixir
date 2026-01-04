@@ -1,7 +1,7 @@
 # Hi there, I’m TiElixir 👋  
 
 ### 💻 About Me  
-I’m a student passionate about **Python development**, **automation**, and **Minecraft bot/modding projects**.  
+I’m a student passionate about **Web Development**, **Python Automation**, **Machine Learning**.  
 I enjoy building tools from scratch, experimenting with new tech, and constantly learning how things work under the hood.  
 
 ---
