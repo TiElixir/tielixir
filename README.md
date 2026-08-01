@@ -9,8 +9,8 @@ I'm a first-year Computer Science student at IIEST Shibpur who enjoys building t
 ### What I'm Working On
 
 * **WiM** – A text editor similar to ViM written in C
-* **GameTheory-pd** – Prisoner's Dilemma simulation implemented with a PyTorch model player
-* **Exploration** – Exploring agentic systems, MCP infrastructure, multi-agent workflows, and AI pipelines
+* **Machine Learning** – Natural Language immitation using LoRAs
+* **Quantum Computing** – Exploring quantum circuits, and algorithms.
 ---
 
 ### Tech Stack
@@ -25,18 +25,18 @@ I'm a first-year Computer Science student at IIEST Shibpur who enjoys building t
 
 ### Currently Learning
 
-* Advanced Python and software design
+* Rust
 * Data Structures & Algorithms
 * AI model training and optimization
-* React and modern frontend development
+* Quantum Computing
 
 ---
 
 ### Highlighted Projects
 
-* **MineAFKjs** – Minecraft automation and bot development
-* **Lyrnios.ai** – Educational AI-powered web application
-* **GameTheory-pd** – Interactive Prisoner's Dilemma and strategy simulation platform
+* **WiM** – A simple text editor written in C
+* **llmitate** – Texting pattern immitator
+* **Voiceguard** – Deepfake Voice detection system
 
 ---
 
