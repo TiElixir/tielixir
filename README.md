@@ -1,53 +1,56 @@
-# Hi there, I'm TiElixir
+<div align="center">
 
-### About Me
+<img src="assets/banner.svg" alt="TiElixir, first-year CS student at IIEST Shibpur" width="100%">
 
-I'm a first-year Computer Science student at IIEST Shibpur who enjoys building things and figuring out how they work. My interests span Python, AI systems, simulations, backend development, and automation. Most of my projects start as experiments and gradually evolve into tools, platforms, or research-oriented explorations.
+</div>
 
----
+<br>
 
-### What I'm Working On
+I'm **Yashvardhan**, a first-year CS student at IIEST Shibpur. I like building things and pulling them apart to see how they work. Most of my projects start as small experiments and slowly grow into tools, platforms, or research rabbit holes.
 
-* **WiM** – A text editor similar to ViM written in C
-* **Machine Learning** – Natural Language immitation using LoRAs
-* **Quantum Computing** – Exploring quantum circuits, and algorithms.
----
+<img src="assets/divider.svg" alt="" width="100%">
 
-### Tech Stack
+### now
 
-| Category                  | Tools / Languages                                         |
-| ------------------------- | --------------------------------------------------------- |
-| **Languages**             | Python, ReactJS, C, C++                                   |
-| **Backend & Systems**     | FastAPI, Postgres SQL, Automation Tools                   |
-| **AI & Research**         | Machine Learning, Agent Systems, Data Analysis            |
+```text
+$ cat now.txt
 
----
+building    WiM, a vim-style text editor in C
+training    LoRAs that imitate natural language and texting patterns
+exploring   quantum circuits and algorithms
+learning    rust, data structures and algorithms, model training and optimization
+```
 
-### Currently Learning
+### projects
 
-* Rust
-* Data Structures & Algorithms
-* AI model training and optimization
-* Quantum Computing
+| project | what it is |
+| --- | --- |
+| [**WiM**](https://github.com/TiElixir/WiM) | A simple vim-style text editor written in C |
+| [**llmitate**](https://github.com/TiElixir/llmitate) | Texting-pattern imitator |
+| [**Voiceguard**](https://github.com/TiElixir/Voiceguard) | Deepfake voice detection system |
 
----
+### stack
 
-### Highlighted Projects
+```text
+languages   python, c, c++, reactjs
+backend     fastapi, postgresql, automation tools
+ai          machine learning, agent systems, data analysis
+```
 
-* **WiM** – A simple text editor written in C
-* **llmitate** – Texting pattern immitator
-* **Voiceguard** – Deepfake Voice detection system
+<img src="assets/divider.svg" alt="" width="100%">
 
----
+### stats
 
-### GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=tielixir&show_icons=true&hide_border=true&bg_color=00000000&title_color=f5a524&icon_color=f5a524&text_color=8b93b5" alt="TiElixir's GitHub stats" height="165">
 
-![TiElixir's GitHub stats](https://github-readme-stats.vercel.app/api?username=tielixir\&show_icons=true\&theme=dark)
+### connect
 
----
+[LinkedIn: Yashvardhan Rai](https://www.linkedin.com/in/your-handle)
 
-### Let's Connect
+<br>
 
-* **LinkedIn:** Yashvardhan Rai
+<div align="center">
 
-I'm always experimenting with new ideas, whether that's an AI project, a simulation, a backend system, or something completely unrelated that caught my attention.
+<sub>Always experimenting: an AI project, a simulation, a backend, or whatever caught my attention this week.</sub>
+
+</div>
