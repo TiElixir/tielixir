@@ -6,7 +6,7 @@
 
 <br>
 
-I'm **Yashvardhan**, a second-year CS student at IIEST Shibpur. I like building things and pulling them apart to see how they work. Most of my projects start as small experiments and slowly grow into tools, platforms, or research rabbit holes.
+I'm **Yashvardhan**, a Sophomore CS student at IIEST Shibpur. I like building things and pulling them apart to see how they work. Most of my projects start as small experiments and slowly grow into tools, platforms, or research rabbit holes.
 
 <img src="assets/divider.svg" alt="" width="100%">
 
